@@ -1,6 +1,6 @@
 # Exercícios Práticos com Docker
 
-Aqui estão os exercícios Docker formatados para facilitar o acompanhamento. Se voce quiser ver o conteudo em video, voce pode acessar a video aula neste link:
+Aqui estão os exercícios Docker formatados para facilitar o acompanhamento. Se você quiser ver o conteúdo em vídeo, você pode acessar a videoaula neste link:
 
 [Containers vs Docker: Entenda Tudo Sobre Virtualização Leve!](https://www.youtube.com/watch?v=wUsAQmk8Y3M&ab_channel=Jo%C3%A3oPedroSchmidtCordeiro)
 
